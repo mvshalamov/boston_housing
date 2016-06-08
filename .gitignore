@@ -52,3 +52,7 @@ docs/_build
 
 #local
 bi/bi/local_settings.py
+Vagrant
+provision.sh
+.ipynb_checkpoints
+
